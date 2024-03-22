@@ -26,6 +26,9 @@ public class Programa {
         Exe07 exe07 = new Exe07();
         exe07.Exer07(leitor);
 
+        Exe08 exe08 = new Exe08();
+        exe08.Exer08(leitor);
+
         leitor.close();
     }
 }
