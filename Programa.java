@@ -20,6 +20,9 @@ public class Programa {
         Exe05 exe05 = new Exe05();
         exe05.Exer05(leitor);
 
+        Exe06 exe06 = new Exe06();
+        exe06.Exer06(leitor);
+
         leitor.close();
     }
 }
